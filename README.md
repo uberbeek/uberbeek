@@ -33,7 +33,7 @@ A group project exploring bias in Wikipedia articles using NLP and classificatio
 📫 **Let’s Connect**
 
 - [LinkedIn](https://www.linkedin.com/in/randy-overbeek-a013bb17)
-- [ORCID](https://orcid.org/0000-0003-4681-682X)
+- [ORCID](https://orcid.org/0000-0002-7062-2679)
 - Email: [uberbeek@gmail.com](mailto:uberbeek@gmail.com)
 
 ---
